@@ -1,0 +1,13 @@
+
+* TODO Compile the BDD the same way we did in Omega
+** DONE identify what needs to be done to have the let statement
+** DONE identify what the omega "context" does
+** TODO Port FOL from omega to RSDD
+DEADLINE: <2024-05-02 Thu>
+* TODO Identify what level of abstraction needed to do the compilation easier
+* TODO Compile to SDD
+* TODO Figure out how to get both compilation to work seamlessly with the same level of abstraction
+* TODO Define the probabilistic queries needed
+* TODO Run benchmarks
+* TODO Implement the sampling 
+* TODO Define a unified API/external interface
